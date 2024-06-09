@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "declaration": true,
+      "rootDir": "ui-tests",
+      "types": ["node"]
+    },
+    "include": [
+      "*/*.ts",
+      ".*.setup.ts",
+      "*.*.spec.ts",
+      "*.*.page.ts",
+      "*.*.json",
+      "*.json",
+      "*.*.ts"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  

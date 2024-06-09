@@ -1,0 +1,18 @@
+{
+    "name": "saude-petrobras-b2c-automation",
+    "version": "1.0.0",
+    "description": "This is a B2C Health Petrobras project that utilizes playwright build in runner with page object model/fixtures as a base design.",
+    "main": "index.js",
+    "scripts": {
+        "petrobras-test:ui": "npx playwright test --config=playwright.config.ts --grep=ui-tests"
+    },
+    "author": "Rafael Pizarro",
+    "license": "ISC",
+    "dependencies": {
+        "@faker-js/faker": "^7.6.0",
+        "@playwright/test": "^1.42.0",
+        "builder-pattern": "^2.2.0",
+        "ts-essentials": "^9.3.1",
+        "@types/node": "^20.11.26"
+    }
+}
