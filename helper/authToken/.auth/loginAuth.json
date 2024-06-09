@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "BIGipServerpool_saudepetrobrasteste",
+      "value": "9c1bb2f3dad4a288263119f3ce69a033",
+      "domain": "saudepetrobrasteste.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "CC99ADCEADFD01E2DDA28409D42A65D2",
+      "domain": "saudepetrobrasteste.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "glide_user_route",
+      "value": "glide.27ef75acbe7d29d136958a50b0ef4e99",
+      "domain": "saudepetrobrasteste.service-now.com",
+      "path": "/",
+      "expires": 1752524775.184998,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-sso:saudepetrobrasb2cqa.onmicrosoft.com_0",
+      "value": "m1.LKx6aFcYpdjZSrJm.CaQSk6KGp6RU2fE9BQOUUQ==.0.92Q2hIeskkgXmqsGRgLcZ2q58MBi1bG00VWJORO7ywIE2JHUQRoniImMJdGV3tSjglByJhTZR/jFrbJBh2QVYAZOltbaQObeBNjqSuH3lpN9cfRohlpylCDftNrIwQkdGtjr45pvbrB2A7WfS6db1IKqcfwj84FAlOnY/8/Yk18YQyMTNNiR0ioyqjJZXb26PN2PJKg39jvL+wf5pSknITDfjvCj3zGSd9mILYW8dceHzXPR7Qt5lYG7yfyE0DTOhf6houxTp9w+gducHg3b82IMU8d4pbe/v3WgciRsveDc0gI69GqaRK0U2JOTK3toG+b1c3KTWQY9/qWe5Y5Wx+c8OV8icaKXOtCRvlX6zLkMxA==",
+      "domain": ".saudepetrobrasb2cqa.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-csrf",
+      "value": "NHNnNkI2a3lPbDlKRUtzSGFpTzhxMGpJTGNQRHh0dUN3b0I5VnI1cXBxcFpNV1hMb01MYTRxZk0ydkNRQnBOL05jbzdvSzNnNGQxcEZwUmZsTjJTUXc9PTsyMDI0LTA2LTA5VDIwOjI2OjE5LjY2OTQ2ODVaO2lkbnNybnJzTFo0ZVMySkNyVkVJQ1E9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==",
+      "domain": ".saudepetrobrasb2cqa.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-cache|fa-j0ajl6e2uzbgdy-qwha_0",
+      "value": "m1.G6DpEYs3kS45MGub.Yuc2r7OcGSGWdN6stOhu4g==.0.CHAiX5WFpaOWFsVg0ceE+KTImO/T9eASkPtqdc9wwVxv7te5sVKa+/61j/uimZtFmHGeUBwfET5uhazuUDC3xsXoJVHAFZoetZHRTZxjW7h/xDczA/PIYDjKuZ0ZI2UNvv7A5C5tPy4xbhpCbMNTl48/9eMcnTtwyfGSRRmvJlplSxH/PVQzjfVyBaBTbhAtXh0tLo2iAcEpwIosFxMuKwk+UPeRNBXRX9W+9uist6CU/F4A48Y/nzNaCv3GgT814jIAREhdRhUwttYRHQlkp1zYY6QtU8QMDBlW/DBpFu+O5jPWf1yBSSiTXTVTBWMclfAGatrEEjdXoPAe7JvVvubfij3MPLVE9kVCIcuNvnRaWBUXz5DCiCif8ZBmx8T9ZhWRzkPiG/+rfngh8KlAygK0/TdweICGKmf8Dg0bt7EOEyQMZuM1S0lfSD0SXLciqwx7v8qs2UkxQGnoWbIqfMTuQHLDGcrPEf0TsORcKN02/d5wc2WeZR1leGmSv9WOVOaX41ie3u8jvDTahH+F3MM5jpScXSDVj33aBmV8G1L0VY5PuxIfvREXIaufHIXc5qhx3bLYbg6mnMQqoWoa1CoDKXHh/FVO8WLllfXRncSG3aYMXi1wedoaJMGvetbaCEKtgmSfuCCXtKliJZFW0Zfz//7wEEZt9EYp0WWsg0rHKLIBoqKYEs7YSvNbinBmC7YZZQ3UoR4zF82EAfCNtN2zLjzXrMW6IxccW5bXuXVWuVoihXLat3Fey3m2egf0NGIcKTGS0sX83NOt7eWG5+S3JRaT2JIFOpHoAHkrh5aWl1CYkZt/5CdcdN5lLyYHY8yJSVbxBrDuiA/4DOGV15PmCuZe9vLVEaI2zFSzWbz/EHxwb7Hgnk9We0PMmPHG2L0NO9ebc66/y9OT3ZVWXN9t8uZonyMbRQoYaB53oUxxPYf+XaKVz5TzHZYotTbFePgLQP9eWrmg/PfZOM926mWeCJLK+flBgIkP1+/R1qSBmOFntAJ5d2noWAtNH9RnQx5/50Z8gOVF8adBqDkTv23aPI0/CiujPiEQv9bZLOaZ1bZDJ8M7NY+GTI4TVfpnuyz+oOi7vIcDu9bPyt6QNaVow86LS0jd8Sa9n7S7ej07Q1H69PdeIrIufosucmkvPnW4kw==",
+      "domain": ".saudepetrobrasb2cqa.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-trans",
+      "value": "eyJUX0RJQyI6W3siSSI6ImQxODlhZjE1LWNiYTgtNGRlOC1hZWNjLTE4MDM2M2U0MTYxYyIsIlQiOiJzYXVkZXBldHJvYnJhc2IyY3FhLm9ubWljcm9zb2Z0LmNvbSIsIlAiOiJiMmNfMWFfY3VzdG9tc2lnbnVwc2lnbmluIiwiQyI6ImZkMzk3ZDgzLWJmMjItNDU1MS1iN2M5LTlhMWNlYzgzMDQyYyIsIlMiOjEsIk0iOnt9LCJEIjowLCJFIjoiIn1dLCJDX0lEIjoiZDE4OWFmMTUtY2JhOC00ZGU4LWFlY2MtMTgwMzYzZTQxNjFjIn0=",
+      "domain": ".saudepetrobrasb2cqa.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
