@@ -121,7 +121,7 @@ Para gravar um teste, clique no botão Gravar novo na barra lateral de Testes. I
 
 Obrigado pelas contribuições da equipe de QA!  
 - Rafael Pizarro
- [@Rafael Pizarro](rafamdpizarro@gmail.com)
+ [@Raul Batalha](raulbatalha@gmail.com)
 
 ### Licença
 MIT © [Saúde Petrobras ](https://saudepetrobrasteste.service-now.com/)
