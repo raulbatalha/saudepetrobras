@@ -120,7 +120,7 @@ Para gravar um teste, clique no botão Gravar novo na barra lateral de Testes. I
 ### Contribuindo
 
 Obrigado pelas contribuições da equipe de QA!  
-- Rafael Pizarro
+- Raul Batalha
  [@Raul Batalha](raulbatalha@gmail.com)
 
 ### Licença
